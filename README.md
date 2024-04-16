@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samia43
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently working as a Data Analysis
 
 <!---
 samia43/samia43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
